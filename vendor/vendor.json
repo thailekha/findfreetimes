@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HeAOIQS+TI75+Afm0qgKXdg+37I=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "63e7f870c2298e42bfc8b200db92e175a3e71120",
+			"revisionTime": "2017-09-29T10:56:09Z"
+		}
+	],
+	"rootPath": "github.com/thailekha/findfreetimes"
+}
